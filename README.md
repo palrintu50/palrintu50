@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rintu-pal-0bb5a51ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rintu-pal-0bb5a51ab" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/palrintu50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="palrintu50" height="30" width="40" /></a>
 <a href="https://instagram.com/rp_quotespedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rp_quotespedia" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nexusgamingytofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nexusgamingytofficial" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/palrintu50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="palrintu50" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
