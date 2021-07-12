@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **react, reactnative, redux, javascript**
+- 💬 Ask me about **react,redux, javascript**
 
-- 📫 How to reach me **palrintu50@gmail.com**
+- 📫How to reach me **palrintu50@gmail.com**
 
-- ⚡ Fun fact **Iam Frontend Developer But I try Backend also**
+- ⚡Fun fact **Iam Frontend Developer But I try Backend also**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
